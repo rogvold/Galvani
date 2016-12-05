@@ -58,8 +58,8 @@
       <file leaf-file-name="AccountsConstants.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/constants/AccountsConstants.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.31451613">
-              <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+            <state vertical-scroll-proportion="0.19354838">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="10" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -466,7 +466,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../GalvaniServer/Galvani" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="JavaScriptLanguageLevel" value="JSX" />
     <property name="SearchEverywhereHistoryKey" value="sign&#9;FILE&#9;file:///Users/sabir/Documents/GitHub/Sleepio/SleepioWebApp/src/components/auth/forms/SignupForm.js&#10;loginf&#9;FILE&#9;file:///Users/sabir/Documents/GitHub/Sleepio/SleepioWebApp/src/components/auth/forms/LoginForm.js&#10;userin&#9;FILE&#9;file:///Users/sabir/Documents/GitHub/Sleepio/SleepioWebApp/src/components/apps/UserIndexApp.js&#10;list&#9;FILE&#9;file:///Users/sabir/Documents/GitHub/Sleepio/SleepioWebApp/src/components/sessions/list/ListItem.js&#10;hrm&#9;null&#9;null&#10;userindex&#9;FILE&#9;file:///Users/sabir/Documents/GitHub/Sleepio/SleepioWebApp/src/components/apps/UserIndexApp.js&#10;index&#9;FILE&#9;file:///Users/sabir/Documents/GitHub/Sleepio/SleepioWebApp/src/components/apps/UserIndexApp.js&#10;app.&#9;FILE&#9;file:///Users/sabir/Documents/GitHub/Sleepio/SleepioWebApp/src/components/apps/App.js&#10;apipl&#9;FILE&#9;file:///Users/sabir/Documents/GitHub/Sleepio/SleepioWebApp/src/components/apps/APIPlaygroundApp.js&#10;sessionsa&#9;FILE&#9;file:///Users/sabir/Documents/GitHub/Sleepio/SleepioWebApp/src/actions/SessionsActions.js&#10;sessionsre&#9;FILE&#9;file:///Users/sabir/Documents/GitHub/Sleepio/SleepioWebApp/src/reducers/SessionsReducer.js&#10;sessionpan&#9;FILE&#9;file:///Users/sabir/Documents/GitHub/Sleepio/SleepioWebApp/src/components/sessions/panels/SessionPanel.js&#10;pla&#9;FILE&#9;file:///Users/sabir/Documents/GitHub/Sleepio/SleepioWebApp/src/components/api_playground/PlaygroundPanel.js&#10;const&#9;FILE&#9;file:///Users/sabir/Documents/GitHub/Sleepio/SleepioWebApp/src/constants/AccountsConstants.js" />
@@ -533,7 +533,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="740" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="740" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -932,8 +932,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/constants/AccountsConstants.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31451613">
-          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.19354838">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="10" selection-end-column="53" />
           <folding />
         </state>
       </provider>
