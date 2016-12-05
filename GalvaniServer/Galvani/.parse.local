@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "Galvani": {
+      "applicationId": "qBQxbpKxB5zvFSClPfGpz2M9lBxGLZgAeKTi6cKf"
+    },
+    "_default": {
+      "link": "Galvani"
+    }
+  }
+}
